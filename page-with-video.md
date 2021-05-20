@@ -1,6 +1,6 @@
 ---
-title: Page With Video
 layout: page
+title: Page With Video
 description: A page with an embedded YouTube video
 menubar: example_menu
 show_sidebar: false

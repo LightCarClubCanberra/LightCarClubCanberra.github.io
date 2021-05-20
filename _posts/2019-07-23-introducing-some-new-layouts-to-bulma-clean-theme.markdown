@@ -1,17 +1,16 @@
 ---
-title: Introducing some new layouts to Bulma Clean Theme
-date: 2019-07-23 08:00:07 Z
-tags:
-- webdev
-- showdev
-- webdesign
 layout: post
-description: Introducing Product Pages and Landing Pages for Bulma Clean Theme
-image: https://www.csrhymes.com/img/landing-page.jpg
+title:  "Introducing some new layouts to Bulma Clean Theme"
+date:   2019-07-23 08:00:07
+description: "Introducing Product Pages and Landing Pages for Bulma Clean Theme"
+image: 'https://www.csrhymes.com/img/landing-page.jpg'
 hero_image: https://www.csrhymes.com/img/landing-page.jpg
 hero_height: is-large
+published: true
+tags: webdev showdev webdesign
 canonical_url: https://www.csrhymes.com/2019/07/23/introducing-some-new-layouts-to-bulma-clean-theme.html
 ---
+
 
 I’ve been meaning to write about some of the new features I have been rolling out to my Jekyll theme, [Bulma Clean Theme](https://www.csrhymes.com/bulma-clean-theme/), for a while but I have only just managed to push the update for the landing page layout last weekend. This article provides some of the thinking behind the updates, as well as a brief introduction to how to get started. 
 

@@ -1,6 +1,6 @@
 ---
-title: Page Without Hero
 layout: page
+title: Page Without Hero
 description: This is a page with no hero
 hide_hero: true
 show_sidebar: false
