@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Page With Notifications
+layout: page
 ---
 
 This page shows how you can add [Bulma notifications](https://bulma.io/documentation/elements/notification/).
