@@ -1,11 +1,12 @@
 ---
+title: Getting started with Bulma Clean Theme for Jekyll
+date: 2019-02-09 20:00:07 Z
+categories:
+- development
 layout: post
-title:  "Getting started with Bulma Clean Theme for Jekyll"
-date:   2019-02-09 20:00:07
-categories: development
-description: "Getting started with Bulma Clean Theme for Jekyll and using it with GitHub Pages"
-image: 'https://www.csrhymes.com/img/bulma-clean-theme.jpg'
-published: true
+description: Getting started with Bulma Clean Theme for Jekyll and using it with GitHub
+  Pages
+image: https://www.csrhymes.com/img/bulma-clean-theme.jpg
 canonical_url: https://www.csrhymes.com/development/2019/02/09/getting-started-with-bulma-clean-theme.html
 ---
 
